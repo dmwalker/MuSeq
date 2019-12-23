@@ -1,0 +1,34 @@
+SRA Name	Strain Information	Host Organism	Read Type	Download Link
+SAMN13673169	DMW11	Escherichia coli str. K-12 substr. MG1655	Paired End 2x150	https://www.ncbi.nlm.nih.gov/sra/13673169
+SAMN13673170	DMW15	Escherichia coli str. K-12 substr. MG1655	Paired End 2x151	https://www.ncbi.nlm.nih.gov/sra/13673170
+SAMN13673171	DMW16	Escherichia coli str. K-12 substr. MG1655	Paired End 2x152	https://www.ncbi.nlm.nih.gov/sra/13673171
+SAMN13673172	DMW18	Escherichia coli str. K-12 substr. MG1655	Paired End 2x153	https://www.ncbi.nlm.nih.gov/sra/13673172
+SAMN13673173	DMW19	Escherichia coli str. K-12 substr. MG1655	Paired End 2x154	https://www.ncbi.nlm.nih.gov/sra/13673173
+SAMN13673174	DMW21	Escherichia coli str. K-12 substr. MG1655	Paired End 2x155	https://www.ncbi.nlm.nih.gov/sra/13673174
+SAMN13673175	DMW22	Escherichia coli str. K-12 substr. MG1655	Paired End 2x156	https://www.ncbi.nlm.nih.gov/sra/13673175
+SAMN13673176	DMW24	Escherichia coli str. K-12 substr. MG1655	Paired End 2x157	https://www.ncbi.nlm.nih.gov/sra/13673176
+SAMN13673177	DMW25	Escherichia coli str. K-12 substr. MG1655	Paired End 2x158	https://www.ncbi.nlm.nih.gov/sra/13673177
+SAMN13673178	DMW26	Escherichia coli str. K-12 substr. MG1655	Paired End 2x159	https://www.ncbi.nlm.nih.gov/sra/13673178
+SAMN13673179	DMW27	Escherichia coli str. K-12 substr. MG1655	Paired End 2x160	https://www.ncbi.nlm.nih.gov/sra/13673179
+SAMN13673180	DMW32	Escherichia coli str. K-12 substr. MG1655	Paired End 2x161	https://www.ncbi.nlm.nih.gov/sra/13673180
+SAMN13673181	DMW33	Escherichia coli str. K-12 substr. MG1655	Paired End 2x162	https://www.ncbi.nlm.nih.gov/sra/13673181
+SAMN13673182	DMW34	Escherichia coli str. K-12 substr. MG1655	Paired End 2x163	https://www.ncbi.nlm.nih.gov/sra/13673182
+SAMN13673183	DMW37	Escherichia coli str. K-12 substr. MG1655	Paired End 2x164	https://www.ncbi.nlm.nih.gov/sra/13673183
+SAMN13673184	DMW38	Escherichia coli str. K-12 substr. MG1655	Paired End 2x165	https://www.ncbi.nlm.nih.gov/sra/13673184
+SAMN13673185	DMW41	Escherichia coli str. K-12 substr. MG1655	Paired End 2x166	https://www.ncbi.nlm.nih.gov/sra/13673185
+SAMN13673186	DMW42	Escherichia coli str. K-12 substr. MG1655	Paired End 2x167	https://www.ncbi.nlm.nih.gov/sra/13673186
+SAMN13673187	DMW44	Escherichia coli str. K-12 substr. MG1655	Paired End 2x168	https://www.ncbi.nlm.nih.gov/sra/13673187
+SAMN13673188	DMW47	Escherichia coli str. K-12 substr. MG1655	Paired End 2x169	https://www.ncbi.nlm.nih.gov/sra/13673188
+SAMN13673189	DMW48	Escherichia coli str. K-12 substr. MG1655	Paired End 2x170	https://www.ncbi.nlm.nih.gov/sra/13673189
+SAMN13673190	DMW51	Escherichia coli str. K-12 substr. MG1655	Paired End 2x171	https://www.ncbi.nlm.nih.gov/sra/13673190
+SAMN13673191	DMW54	Escherichia coli str. K-12 substr. MG1655	Paired End 2x172	https://www.ncbi.nlm.nih.gov/sra/13673191
+SAMN13673192	DMW57	Escherichia coli str. K-12 substr. MG1655	Paired End 2x173	https://www.ncbi.nlm.nih.gov/sra/13673192
+SAMN13673193	DMW58	Escherichia coli str. K-12 substr. MG1655	Paired End 2x174	https://www.ncbi.nlm.nih.gov/sra/13673193
+SAMN13673194	DMW59	Escherichia coli str. K-12 substr. MG1655	Paired End 2x175	https://www.ncbi.nlm.nih.gov/sra/13673194
+SAMN13673195	DMW61	Escherichia coli str. K-12 substr. MG1655	Paired End 2x176	https://www.ncbi.nlm.nih.gov/sra/13673195
+SAMN13673196	DMW63	Escherichia coli str. K-12 substr. MG1655	Paired End 2x177	https://www.ncbi.nlm.nih.gov/sra/13673196
+SAMN13673197	DMW64	Escherichia coli str. K-12 substr. MG1655	Paired End 2x178	https://www.ncbi.nlm.nih.gov/sra/13673197
+SAMN13673198	DMW66	Escherichia coli str. K-12 substr. MG1655	Paired End 2x179	https://www.ncbi.nlm.nih.gov/sra/13673198
+SAMN13673199	DMW69	Escherichia coli str. K-12 substr. MG1655	Paired End 2x180	https://www.ncbi.nlm.nih.gov/sra/13673199
+SAMN13673200	DMW71	Escherichia coli str. K-12 substr. MG1655	Paired End 2x181	https://www.ncbi.nlm.nih.gov/sra/13673200
+				
