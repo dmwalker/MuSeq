@@ -6,6 +6,7 @@ The python code was last run succesfully on Dec, 12 2019 on the TACC computing c
 
 Coding Files:  
 MAPS.py is the python code used to identify Mu transposition sites.  
+spot_detect.py is python code used to measure the distance between GFP and CFP foci.  
 
 Data Files:  
 Insertion counts are provided in the Mu_counts file  
